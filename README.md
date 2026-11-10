@@ -1,20 +1,20 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+Open (https://smart-scheduler-rouge.vercel.app/) with your browser to see the result.
 
-First, run the development server:
+Use these prompts one by one:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. "Schedule a deep work block at 2 PM"
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. "I need to focus for a bit"
+
+3. "Trigger an error"
+
+
+
+**FOR ADMINISTRATOR**
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
